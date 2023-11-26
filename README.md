@@ -16,6 +16,8 @@ PyC_gram is a Python module designed for computing the Controllability Gramian o
 To use PyC_gram, you need to have Python installed along with the `numpy`, `control`, and `slycot` packages. You can install these dependencies using pip:
 
 ```bash
+git clone https://github.com/PsyControl/PyC_Gramian.git
+cd PyC_Gramian
 pip install numpy control slycot
 ```
 
